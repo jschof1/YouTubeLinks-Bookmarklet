@@ -1,2 +1,2 @@
 # YouTubeLinks
-Created with CodeSandbox
+Scrape youtube links from personal liked videos.
